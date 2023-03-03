@@ -1,0 +1,162 @@
+1677814783366	geckodriver	INFO	Listening on 127.0.0.1:50180
+1677814786404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YPIZA\\AppData\\Local\\Temp\\rust_mozprofilegJJOJQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677814787150	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677814787157	Marionette	INFO	Listening on port 50188
+Read port: 50188
+WebDriver BiDi listening on ws://127.0.0.1:50181
+1677814787310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YPIZA\\AppData\\Local\\Temp\\rust_mozprofilegJJOJQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50181/devtools/browser/15c7cbed-6242-4787-8482-c951e5af4311
+JavaScript error: https://imis.counseling.org/store/SearchResults.aspx?searchterm=pencil&searchoption=ALL, line 104: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/store/viewcart.aspx, line 104: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/ACA/Sign_In.aspx?WebsiteKey=47f16f10-3620-47fe-b55d-6b50252725d1&LoginRedirect=true&returnurl=%2fACA%2fSignInRedirect.aspx%3fdoRedirect%3d%252fstore%252fviewcart.aspx, line 149: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+[Parent 19336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: https://imis.counseling.org/store/viewcart.aspx?&WebsiteKey=47f16f10-3620-47fe-b55d-6b50252725d1, line 104: ReferenceError: stLight is not defined
+JavaScript error: https://imis.counseling.org/store/checkout.aspx, line 104: ReferenceError: stLight is not defined
+JavaScript error: https://imis.counseling.org/store/Payment.aspx, line 104: ReferenceError: stLight is not defined
+1677814860283	Marionette	INFO	Stopped listening on port 50188
+Dynamically enable window occlusion 1
+1677814872748	geckodriver	INFO	Listening on 127.0.0.1:50402
+1677814875825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YPIZA\\AppData\\Local\\Temp\\rust_mozprofileFHH368"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677814876225	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677814876229	Marionette	INFO	Listening on port 50410
+Read port: 50410
+WebDriver BiDi listening on ws://127.0.0.1:50403
+1677814876361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YPIZA\\AppData\\Local\\Temp\\rust_mozprofileFHH368\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50403/devtools/browser/52725c6b-7426-4c81-9e8c-160bfddd4d1e
+JavaScript error: https://imis.counseling.org/store/SearchResults.aspx?searchterm=pencil&searchoption=ALL, line 104: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/store/viewcart.aspx, line 104: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/ACA/Sign_In.aspx?WebsiteKey=47f16f10-3620-47fe-b55d-6b50252725d1&LoginRedirect=true&returnurl=%2fACA%2fSignInRedirect.aspx%3fdoRedirect%3d%252fstore%252fviewcart.aspx, line 149: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/store/viewcart.aspx?&WebsiteKey=47f16f10-3620-47fe-b55d-6b50252725d1, line 104: ReferenceError: stLight is not defined
+JavaScript error: https://imis.counseling.org/store/checkout.aspx, line 104: ReferenceError: stLight is not defined
+JavaScript error: https://imis.counseling.org/store/Payment.aspx, line 104: ReferenceError: stLight is not defined
+1677814930858	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677814943800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677814949481	Marionette	INFO	Stopped listening on port 50410
+Dynamically enable window occlusion 1
+1677815028914	geckodriver	INFO	Listening on 127.0.0.1:50017
+1677815031964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YPIZA\\AppData\\Local\\Temp\\rust_mozprofileYTPJp4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677815032362	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677815032365	Marionette	INFO	Listening on port 50027
+Read port: 50027
+WebDriver BiDi listening on ws://127.0.0.1:50018
+1677815032486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YPIZA\\AppData\\Local\\Temp\\rust_mozprofileYTPJp4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50018/devtools/browser/d5870759-0e8c-441d-a1b3-3347abc0dd97
+JavaScript error: https://imis.counseling.org/store/SearchResults.aspx?searchterm=pencil&searchoption=ALL, line 104: ReferenceError: stLight is not defined
+[Parent 11988, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/store/viewcart.aspx, line 104: ReferenceError: stLight is not defined
+[Parent 11988, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/ACA/Sign_In.aspx?WebsiteKey=47f16f10-3620-47fe-b55d-6b50252725d1&LoginRedirect=true&returnurl=%2fACA%2fSignInRedirect.aspx%3fdoRedirect%3d%252fstore%252fviewcart.aspx, line 149: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/store/viewcart.aspx?&WebsiteKey=47f16f10-3620-47fe-b55d-6b50252725d1, line 104: ReferenceError: stLight is not defined
+JavaScript error: https://imis.counseling.org/store/checkout.aspx, line 104: ReferenceError: stLight is not defined
+JavaScript error: https://imis.counseling.org/store/Payment.aspx, line 104: ReferenceError: stLight is not defined
+1677815088648	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815095248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815102342	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815108966	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815116562	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815123656	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815130766	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815137348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815144450	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815223917	Marionette	INFO	Stopped listening on port 50027
+Dynamically enable window occlusion 1
+1677815244878	geckodriver	INFO	Listening on 127.0.0.1:63352
+1677815247940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "633 ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YPIZA\\AppData\\Local\\Temp\\rust_mozprofile1BqXKs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677815248336	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677815248339	Marionette	INFO	Listening on port 63361
+Read port: 63361
+WebDriver BiDi listening on ws://127.0.0.1:63353
+1677815248450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YPIZA\\AppData\\Local\\Temp\\rust_mozprofile1BqXKs\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63353/devtools/browser/f77181a3-0da2-4c29-aa3e-f2f1bce3cb80
+JavaScript error: https://imis.counseling.org/store/SearchResults.aspx?searchterm=pencil&searchoption=ALL, line 104: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/store/viewcart.aspx, line 104: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/ACA/Sign_In.aspx?WebsiteKey=47f16f10-3620-47fe-b55d-6b50252725d1&LoginRedirect=true&returnurl=%2fACA%2fSignInRedirect.aspx%3fdoRedirect%3d%252fstore%252fviewcart.aspx, line 149: ReferenceError: stLight is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://imis.counseling.org."
+JavaScript error: https://imis.counseling.org/store/viewcart.aspx?&WebsiteKey=47f16f10-3620-47fe-b55d-6b50252725d1, line 104: ReferenceError: stLight is not defined
+JavaScript error: https://imis.counseling.org/store/checkout.aspx, line 104: ReferenceError: stLight is not defined
+JavaScript error: https://imis.counseling.org/store/Payment.aspx, line 104: ReferenceError: stLight is not defined
+1677815301764	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677815306125	Marionette	INFO	Stopped listening on port 63361
+Dynamically enable window occlusion 1
